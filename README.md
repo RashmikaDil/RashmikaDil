@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I’m a passionate front-end developer who loves c
 ## <img src="https://img.icons8.com/ios-filled/50/ffffff/about.png" width="30"/> <span style="color: #FF0000;">About Me</span>
 
 I'm all about creating beautiful and responsive web applications using cutting-edge technologies. Currently, I'm exploring new features in Tailwind CSS and mastering advanced Sass techniques.
+---
 
 ### <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30"/> <span style="color: #28a745;">Skills & Tools</span>
 
@@ -43,11 +44,11 @@ I'm all about creating beautiful and responsive web applications using cutting-e
   </a>
 </div>
 
----
+
 
 ## <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30"/> <span style="color: #333;">Top Languages</span>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=tokyo-nigh)
 
 
 ---
