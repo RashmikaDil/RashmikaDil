@@ -9,13 +9,12 @@ Welcome to my GitHub profile! I’m a passionate front-end developer who loves c
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RashmikaDil&theme=tokyo-night&hide_border=true)
 
 ---
----
 
 ## <img src="https://img.icons8.com/ios-filled/50/ffffff/about.png" width="30"/> <span style="color: #FF0000;">About Me</span>
 
 I'm all about creating beautiful and responsive web applications using cutting-edge technologies. Currently, I'm exploring new features in Tailwind CSS and mastering advanced Sass techniques.
 
-### <img src="https://img.icons8.com/ios-filled/50/ffffff/tools.png" width="30" style="vertical-align: middle;"/> <span style="color: #28a745;">Skills & Tools</span>
+### <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30"/> <span style="color: #28a745;">Skills & Tools</span>
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="#" style="text-decoration: none; color: inherit;">
