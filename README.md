@@ -1,4 +1,12 @@
-# 👋 Hello, I'm Wiyathunge Rashmika Dilhara!
+# 👋 Hello, I'm Rashmika Dilhara!
+
+## <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30"/> <span style="color: #333;">GitHub Stats</span>
+
+![RashmikaDil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=tokyo-night)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=tokyo-night)
+
+---
 
 Welcome to my GitHub profile! I’m a passionate front-end developer who loves crafting sleek and interactive web experiences. Dive in to learn more about my work, skills, and what I'm currently up to.
 
@@ -39,13 +47,6 @@ I'm all about creating beautiful and responsive web applications using cutting-e
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="30"/> <span style="color: #333;">GitHub Stats</span>
-
-![RashmikaDil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=tokyo-night)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=tokyo-night)
-
----
 
 ## <img src="https://img.icons8.com/ios-filled/50/ffffff/rocket.png" width="30"/> <span style="color: #ff5733;">Projects</span>
 
