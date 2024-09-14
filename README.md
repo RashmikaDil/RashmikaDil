@@ -4,24 +4,24 @@ Welcome to my GitHub profile! I’m a passionate front-end developer who loves c
 
 ---
 
-## 💼 About Me
+## <img src="https://img.icons8.com/ios-filled/50/000000/about.png" width="30"/> About Me
 
 I'm all about creating beautiful and responsive web applications using cutting-edge technologies. Currently, I'm exploring new features in Tailwind CSS and mastering advanced Sass techniques.
 
-### 🛠️ Skills & Tools
+### <img src="https://img.icons8.com/ios-filled/50/000000/tools.png" width="30"/> Skills & Tools
 
-- **HTML** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF)  
-- **CSS** ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)  
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)  
-- **Figma** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF)  
-- **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=FFFFFF)  
-- **Sass** ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=FFFFFF)  
-- **MS Office 365** ![MS Office 365](https://img.shields.io/badge/-MS%20Office%20365-F25022?style=flat&logo=microsoft&logoColor=FFFFFF)  
-- **SAP** ![SAP](https://img.shields.io/badge/-SAP-00376B?style=flat&logo=sap&logoColor=FFFFFF)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=FFFFFF)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=FFFFFF)
+![MS Office 365](https://img.shields.io/badge/-MS%20Office%20365-F25022?style=flat&logo=microsoft&logoColor=FFFFFF)
+![SAP](https://img.shields.io/badge/-SAP-00376B?style=flat&logo=sap&logoColor=FFFFFF)
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30"/> GitHub Stats
 
 ![RashmikaDil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=tokyo-night)
 
@@ -29,7 +29,7 @@ I'm all about creating beautiful and responsive web applications using cutting-e
 
 ---
 
-## 🚀 Projects
+## <img src="https://img.icons8.com/ios-filled/50/000000/rocket.png" width="30"/> Projects
 
 Here are some of my favorite projects:
 
@@ -39,7 +39,7 @@ Here are some of my favorite projects:
 
 ---
 
-## 📞 Connect with Me
+## <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="30"/> Connect with Me
 
 Let’s get in touch! Feel free to reach out through any of the following:
 
@@ -50,7 +50,7 @@ Let’s get in touch! Feel free to reach out through any of the following:
 
 ---
 
-## 🎯 Current Goals
+## <img src="https://img.icons8.com/ios-filled/50/000000/goals.png" width="30"/> Current Goals
 
 - 🌱 Enhancing my skills in Tailwind CSS and responsive design.
 - 🎨 Mastering advanced Sass features for efficient styling.
@@ -58,7 +58,7 @@ Let’s get in touch! Feel free to reach out through any of the following:
 
 ---
 
-## 🎉 Fun Fact
+## <img src="https://img.icons8.com/ios-filled/50/000000/idea.png" width="30"/> Fun Fact
 
 Did you know? I once designed a complete website in a single weekend using Tailwind CSS and Sass. The site is now live and is one of my proudest achievements!
 
