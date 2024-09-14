@@ -1,5 +1,9 @@
 # 👋 Hello, I'm Rashmika Dilhara!
+## <img src="https://img.icons8.com/ios-filled/50/ffffff/calendar.png" width="30"/> <span style="color: #6f42c1;">Contribution Streak</span>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RashmikaDil&theme=tokyo-night&hide_border=true)
+
+---
 
 
 
