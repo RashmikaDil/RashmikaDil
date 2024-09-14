@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I’m a passionate front-end developer who loves c
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I'm all about creating beautiful and responsive web applications using cutting-edge technologies. Currently, I'm exploring new features in Tailwind CSS and mastering advanced Sass techniques.
 
-### 🔧 Skills & Tools
+### Skills & Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)
@@ -21,7 +21,17 @@ I'm all about creating beautiful and responsive web applications using cutting-e
 
 ---
 
-## 🚀 Projects
+
+
+## GitHub Stats
+
+![RashmikaDil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=tokyo-night)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=tokyo-night)
+
+---
+
+## Projects
 
 Here are some of my favorite projects:
 
@@ -30,16 +40,7 @@ Here are some of my favorite projects:
 - **[Project 3](https://github.com/RashmikaDil/project3)**: A full-stack application showcasing my front-end skills with Tailwind CSS and Sass.
 
 ---
-
-## 📈 GitHub Stats
-
-![RashmikaDil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=tokyo-night)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=tokyo-night)
-
----
-
-## 📫 Connect with Me
+## Connect with Me
 
 Let’s get in touch! Feel free to reach out through any of the following:
 
@@ -50,7 +51,7 @@ Let’s get in touch! Feel free to reach out through any of the following:
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - 🌱 Enhancing my skills in Tailwind CSS and responsive design.
 - 🎨 Mastering advanced Sass features for efficient styling.
@@ -58,7 +59,7 @@ Let’s get in touch! Feel free to reach out through any of the following:
 
 ---
 
-## 🎉 Fun Fact
+## Fun Fact
 
 Did you know? I once designed a complete website in a single weekend using Tailwind CSS and Sass. The site is now live and is one of my proudest achievements!
 
