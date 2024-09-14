@@ -30,19 +30,20 @@ I'm currently diving deeper into Tailwind CSS and Sass to streamline my workflow
 
 ---
 
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical)
+
+---
+
 ## 🌍 Projects
 
 - **[Project 1](https://github.com/RashmikaDil/project1)**: A brief description of how I used Tailwind CSS to build a responsive layout.
 - **[Project 2](https://github.com/RashmikaDil/project2)**: A brief description of a project where I implemented Sass for efficient styling.
 - **[Project 3](https://github.com/RashmikaDil/project3)**: A brief description of a full-stack application showcasing my front-end skills with Tailwind CSS and Sass.
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/rashmika-dilhara-47a7102aa/)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Email](mailto:rashmikadil2023@gmail.com)
 
 ---
 
@@ -54,11 +55,13 @@ I'm currently diving deeper into Tailwind CSS and Sass to streamline my workflow
 
 ---
 
-## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical)
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rashmika-dilhara-47a7102aa/)
+- [Twitter](https://twitter.com/your-twitter-handle)
+- [Email](mailto:rashmikadil2023@gmail.com)
 
 ---
 
