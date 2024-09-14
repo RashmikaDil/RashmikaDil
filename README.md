@@ -43,9 +43,10 @@ Here are some of my favorite projects:
 
 Let’s get in touch! Feel free to reach out through any of the following:
 
-- [LinkedIn](https://www.linkedin.com/in/rashmika-dilhara-47a7102aa/)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Email](mailto:rashmikadil2023@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmika-dilhara-47a7102aa/)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rashmikadil523/)
+- [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/RashmikaDilharaFB)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rashmikadil2023@gmail.com)
 
 ---
 
