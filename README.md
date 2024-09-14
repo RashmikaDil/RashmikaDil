@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I’m a passionate front-end developer who loves c
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/000000/about.png" width="30"/> About Me
+## <img src="https://img.icons8.com/ios-filled/50/000000/about.png" width="30" style="fill: #007bff;"/> About Me
 
 I'm all about creating beautiful and responsive web applications using cutting-edge technologies. Currently, I'm exploring new features in Tailwind CSS and mastering advanced Sass techniques.
 
-### <img src="https://img.icons8.com/ios-filled/50/000000/tools.png" width="30"/> Skills & Tools
+### <img src="https://img.icons8.com/ios-filled/50/000000/tools.png" width="30" style="fill: #28a745;"/> Skills & Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)
@@ -21,7 +21,7 @@ I'm all about creating beautiful and responsive web applications using cutting-e
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30"/> GitHub Stats
+## <img src="https://img.icons8.com/ios-filled/50/000000/github.png" width="30" style="fill: #333;"/> GitHub Stats
 
 ![RashmikaDil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=tokyo-night)
 
@@ -29,39 +29,10 @@ I'm all about creating beautiful and responsive web applications using cutting-e
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/50/000000/rocket.png" width="30"/> Projects
+## <img src="https://img.icons8.com/ios-filled/50/000000/rocket.png" width="30" style="fill: #ff5733;"/> Projects
 
 Here are some of my favorite projects:
 
 - **[Project 1](https://github.com/RashmikaDil/project1)**: A responsive layout built with Tailwind CSS that adapts seamlessly across devices.
 - **[Project 2](https://github.com/RashmikaDil/project2)**: An app styled with Sass, demonstrating modular and scalable CSS practices.
-- **[Project 3](https://github.com/RashmikaDil/project3)**: A full-stack application showcasing my front-end skills with Tailwind CSS and Sass.
-
----
-
-## <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="30"/> Connect with Me
-
-Let’s get in touch! Feel free to reach out through any of the following:
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmika-dilhara-47a7102aa/)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rashmikadil523/)
-- [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/RashmikaDilharaFB)
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rashmikadil2023@gmail.com)
-
----
-
-## <img src="https://img.icons8.com/ios-filled/50/000000/goals.png" width="30"/> Current Goals
-
-- 🌱 Enhancing my skills in Tailwind CSS and responsive design.
-- 🎨 Mastering advanced Sass features for efficient styling.
-- 🚀 Building and contributing to exciting open-source projects.
-
----
-
-## <img src="https://img.icons8.com/ios-filled/50/000000/idea.png" width="30"/> Fun Fact
-
-Did you know? I once designed a complete website in a single weekend using Tailwind CSS and Sass. The site is now live and is one of my proudest achievements!
-
----
-
-Thanks for stopping by my profile! If you have any questions or just want to connect, don’t hesitate to reach out. 😊
+- **[Project 3](https://github.com/RashmikaDil/project3)**: A full-stack application showcasing my front-end s
