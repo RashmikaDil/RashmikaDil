@@ -1,63 +1,47 @@
-# 👋 Hi, I'm Wiyathunge Rashmika Dilhara!
+# 👋 Hello, I'm Wiyathunge Rashmika Dilhara!
 
-Welcome to my GitHub profile. I'm a front-end developer with a passion for crafting visually appealing and highly functional web applications using modern technologies. Here’s a bit about me and what I’m currently up to.
-
----
-
-## 🚀 About Me
-
-I specialize in:
-- **Front-End Development**: HTML, CSS, JavaScript
-- **Design Tools**: Figma
-- **Preprocessing**: Sass (SCSS)
-- **Utility-First CSS Frameworks**: Tailwind CSS
-- **Data Management**: MS Office 365, SAP
-
-I'm currently diving deeper into Tailwind CSS and Sass to streamline my workflow and improve my design capabilities.
+Welcome to my GitHub profile! I’m a passionate front-end developer who loves crafting sleek and interactive web experiences. Dive in to learn more about my work, skills, and what I'm currently up to.
 
 ---
 
-## 🌟 Technologies & Tools
+## 🌟 About Me
 
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss&logoColor=38B2AC)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=CC6699)
-![MS Office 365](https://img.shields.io/badge/-MS%20Office%20365-000000?style=flat&logo=microsoft&logoColor=F25022)
-![SAP](https://img.shields.io/badge/-SAP-000000?style=flat&logo=sap&logoColor=00376B)
+I'm all about creating beautiful and responsive web applications using cutting-edge technologies. Currently, I'm exploring new features in Tailwind CSS and mastering advanced Sass techniques.
+
+### 🔧 Skills & Tools
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=FFFFFF)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=FFFFFF)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=FFFFFF)
+![MS Office 365](https://img.shields.io/badge/-MS%20Office%20365-F25022?style=flat&logo=microsoft&logoColor=FFFFFF)
+![SAP](https://img.shields.io/badge/-SAP-00376B?style=flat&logo=sap&logoColor=FFFFFF)
 
 ---
 
+## 🚀 Projects
+
+Here are some of my favorite projects:
+
+- **[Project 1](https://github.com/RashmikaDil/project1)**: A responsive layout built with Tailwind CSS that adapts seamlessly across devices.
+- **[Project 2](https://github.com/RashmikaDil/project2)**: An app styled with Sass, demonstrating modular and scalable CSS practices.
+- **[Project 3](https://github.com/RashmikaDil/project3)**: A full-stack application showcasing my front-end skills with Tailwind CSS and Sass.
+
+---
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
+![RashmikaDil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=tokyo-night)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical)
-
----
-
-## 🌍 Projects
-
-- **[Project 1](https://github.com/RashmikaDil/project1)**: A brief description of how I used Tailwind CSS to build a responsive layout.
-- **[Project 2](https://github.com/RashmikaDil/project2)**: A brief description of a project where I implemented Sass for efficient styling.
-- **[Project 3](https://github.com/RashmikaDil/project3)**: A brief description of a full-stack application showcasing my front-end skills with Tailwind CSS and Sass.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=tokyo-night)
 
 ---
-
-## 🎯 Current Goals
-
-- 📚 Mastering advanced Tailwind CSS techniques and responsive design.
-- 🎨 Enhancing my Sass skills for better maintainability and modularity.
-- 🚀 Building a portfolio of personal and open-source projects showcasing my expertise.
-
----
-
-
 
 ## 📫 Connect with Me
+
+Let’s get in touch! Feel free to reach out through any of the following:
 
 - [LinkedIn](https://www.linkedin.com/in/rashmika-dilhara-47a7102aa/)
 - [Twitter](https://twitter.com/your-twitter-handle)
@@ -65,4 +49,18 @@ I'm currently diving deeper into Tailwind CSS and Sass to streamline my workflow
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to chat. 😊
+## 🎯 Current Goals
+
+- 🌱 Enhancing my skills in Tailwind CSS and responsive design.
+- 🎨 Mastering advanced Sass features for efficient styling.
+- 🚀 Building and contributing to exciting open-source projects.
+
+---
+
+## 🎉 Fun Fact
+
+Did you know? I once designed a complete website in a single weekend using Tailwind CSS and Sass. The site is now live and is one of my proudest achievements!
+
+---
+
+Thanks for stopping by my profile! If you have any questions or just want to connect, don’t hesitate to reach out. 😊
