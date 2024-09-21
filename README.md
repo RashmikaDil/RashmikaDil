@@ -57,7 +57,7 @@ I'm all about creating beautiful and responsive web applications using cutting-e
 
 Here are some of my favorite projects:
 
-- **[Project 1](https://github.com/RashmikaDil/project1)**: A responsive layout built with Tailwind CSS that adapts seamlessly across devices.
+- **[Nature web site](https://github.com/RashmikaDil/project1)**: A responsive layout built with Tailwind CSS that adapts seamlessly across devices.
 - **[Project 2](https://github.com/RashmikaDil/project2)**: An app styled with Sass, demonstrating modular and scalable CSS practices.
 - **[Project 3](https://github.com/RashmikaDil/project3)**: A full-stack application showcasing my front-end skills with Tailwind CSS and Sass.
 
