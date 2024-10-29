@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rashmika Dilhara!
+# 👋 Hello, I'm Rashmika Dilhara! 
 
 Welcome to my GitHub profile! I’m a passionate front-end developer who loves crafting sleek and interactive web experiences. Dive in to learn more about my work, skills, and what I'm currently up to.
 
