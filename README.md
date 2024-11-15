@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wiyathunge Rashmika Dilhara</h1>
+<h1 align="center">Hi 👋, I'm Rashmika Dilhara</h1>
 <h3 align="center">A Passionate IT Professional and Entrepreneur</h3>
 
 ---
