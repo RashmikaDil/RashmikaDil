@@ -45,3 +45,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical" alt="" width="85%" height="200px"/>
 
 </div>
+
+---
+
+### 📈 Most Used Languages  
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RashmikaDil&theme=react-dark" alt="" width="85%" height="200px"/>
+
+</div>
