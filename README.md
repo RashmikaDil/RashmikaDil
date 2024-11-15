@@ -23,7 +23,7 @@
 
 ### 📈 GitHub Stats  
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaDil&theme=radical" alt="GitHub Streak" width="45%" height="200px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaDil&theme=radical" alt="GitHub Streak" width="75%" height="200px"/>
 
 </div>
 
