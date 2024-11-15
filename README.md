@@ -30,5 +30,6 @@
 ---
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaDil&theme=radical" alt="GitHub Streak" width="45%" height="200px"/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical" alt="GitHub Streak" width="45%" height="200px"/>
+
 </div>
