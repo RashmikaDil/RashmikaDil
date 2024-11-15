@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! Welcome to my GitHub profile!</h2>
+<h2 align="center"> 😊 Hi there! Welcome to my GitHub profile!</h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=I+am+a+tech+enthusiast;Passionate+about+coding;Lifelong+learner" />
 </p>
