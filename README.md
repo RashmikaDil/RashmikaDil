@@ -52,3 +52,10 @@
 
 ---
 
+### 📫 Let's Connect!  
+- 📧 Email: [rashmikadil2023@gmail.com](mailto:rashmikadil2023@gmail.com)  
+- 💼 LinkedIn: [rashmika-dilhara](https://www.linkedin.com/in/rashmika-dilhara-47a7102aa/)  
+- 🌐 Portfolio: Coming soon!  
+- 📷 Instagram: [@rashmikadil523](https://www.instagram.com/rashmikadil523/)  
+- 🖥 GitHub: [RashmikaDil](https://github.com/RashmikaDil)  
+
