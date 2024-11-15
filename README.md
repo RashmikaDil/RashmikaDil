@@ -22,9 +22,9 @@
 ---
 
 ### 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaDil&theme=radical" alt="GitHub Streak" width="45%"/>
+<div align="center" style="display:flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaDil&theme=radical" alt="GitHub Streak" width="50%"/>
 </div>
 
 ---
