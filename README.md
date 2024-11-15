@@ -9,7 +9,7 @@
 
 
 ---
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaDil&theme=radical" alt="GitHub Streak" width="45%"/>
+ 
 ### 🛠 Skills & Tools  
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
@@ -23,8 +23,8 @@
 
 ### 📈 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&theme=radical" alt="GitHub Stats" width="100%"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaDil&theme=radical" alt="GitHub Streak" width="45%"/>
 </div>
 
 ---
