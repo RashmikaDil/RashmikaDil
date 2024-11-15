@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashmika Dilhara</h1>
-<h3 align="center">A Passionate IT Professional and Entrepreneur</h3>
+<h3 align="center">IT and Coding</h3>
 <h6 align="center">Hi there! I'm Wiyathunge Rashmika Dilhara, a curious learner stepping into the world of IT and programming. I’m passionate about improving my skills, exploring new technologies, and applying what I learn to build useful projects.</h6>
+
 ---
 
 ### 👨‍💻 About Me  
