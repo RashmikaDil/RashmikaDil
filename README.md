@@ -32,6 +32,13 @@
 
 ---
 
+### 🏅 Achievements  
+- **Diploma in IT** - ESOFT Metro Campus  
+- **UI/UX Design** - Online Courses on Figma and Adobe XD
+- **Web Design for Beginners E-Certificate** - Online Courses by University Of Moratuwa : [https://open.uom.lk/lms/mod/customcert/view.php?id=697&downloadown=1]
+
+---
+
 ### 📈 GitHub Stats  
 <div align="center">
  
