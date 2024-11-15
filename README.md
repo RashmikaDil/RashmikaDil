@@ -30,7 +30,7 @@
 ---
 <div style="display: flex; justify-content: space-around; align-items: center;">
   
- <img src="https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&theme=radical" alt="GitHub Stats" width="70%" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical" alt="GitHub Streak" width="20%" height="200px"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&theme=radical" alt="GitHub Stats" width="60%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical" alt="GitHub Streak" width="30%" height="200px"/>
 
 </div>
