@@ -30,8 +30,9 @@
 </div>
 
 ---
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  
+### 📈 GitHub Stats  
+<div align="center">
 
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical" alt="" width="85%" height="200px"/>
+
 </div>
