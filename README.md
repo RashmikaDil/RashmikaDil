@@ -21,16 +21,24 @@
 
 ---
 
-### 📈 GitHub Stats  
+### 📈 GitHub Streak  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaDil&theme=radical" alt="GitHub Streak" width="85%" height="200px"/>
- <img src="https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&theme=radical" alt="GitHub Stats" width="85%" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical" alt="GitHub Streak" width="85%" height="200px"/>
 
 </div>
 
 ---
+
+
 ### 📈 GitHub Stats  
+<div align="center">
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&theme=radical" alt="GitHub Stats" width="85%" height="200px"/>
+
+
+</div>
+---
+### 📈 Most Used Languages  
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical" alt="" width="85%" height="200px"/>
