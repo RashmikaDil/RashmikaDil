@@ -28,9 +28,10 @@
 </div>
 
 ---
-
+### 📊 Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RashmikaDil&layout=compact&theme=radical)
 ### 🚀 Featured Projects  
-- **[MoneySaving-dashBoard)]([#](https://github.com/RashmikaDil/NodeJs-MoneySaving-dashBoard))** - Small Project Using NodeJS
+- **[MoneySaving-dashBoard)]([https://github.com/RashmikaDil/NodeJs-MoneySaving-dashBoard])** - Small Project Using NodeJS
 
 
 ---
