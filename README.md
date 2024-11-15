@@ -4,10 +4,10 @@
 
 ---
 
-### 👨‍💻 About Me  
-- 🌱 Currently exploring **MERN Stack** and **jQuery**  
-- 🎯 Goals: Become a Profectional Software Engineer
-
+###  🌱 What I’m Learning:
+-JavaScript and jQuery: Making websites more interactive and dynamic.
+-MERN Stack: Building full-stack web applications step by step.
+-UI/UX Design: Creating simple and user-friendly designs with Figma.
 
 ---
  
