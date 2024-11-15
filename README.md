@@ -22,7 +22,7 @@
 ---
 
 ### 📈 GitHub Stats  
-<div align="center" style="display:flex;">
+<div align="center" <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=RashmikaDil&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmikaDil&theme=radical" alt="GitHub Streak" width="50%"/>
 </div>
