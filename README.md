@@ -30,8 +30,8 @@
 ---
 
 ### 🚀 Featured Projects  
-- **[ClipChic](#)** - A business selling trendy hair accessories  
-- **[Stock Management System](#)** - Streamlining inventory operations  
+- **[MoneySaving-dashBoard)]([#](https://github.com/RashmikaDil/NodeJs-MoneySaving-dashBoard))** - Small Project Using NodeJS
+
 
 ---
 
