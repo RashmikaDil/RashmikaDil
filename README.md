@@ -40,6 +40,10 @@
 - **Web Design for Beginners E-Certificate** - Online Courses by University Of Moratuwa : [https://open.uom.lk/lms/mod/customcert/view.php?id=697&downloadown=1]
 
 ---
+### 🏅 Projects
+- **Adventure Lanka React Project** - [Visit site](https://adventurelanaka.netlify.app/)
+
+---
 
 ### 📈 GitHub Stats  
 <div align="center">
