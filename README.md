@@ -41,7 +41,7 @@
 
 ---
 ### 🏅 Projects
-- **Adventure Lanka React Project** - [Visit site](https://adventurelanaka.netlify.app/)
+- **Adventure Lanka React Project** - [Visit site](https://adventurelanaka.netlify.app/) , [Repo.](https://github.com/RashmikaDil/Adventure-Lanka-FrontEnd)
 
 ---
 
